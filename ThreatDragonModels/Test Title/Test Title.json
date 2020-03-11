@@ -10,7 +10,13 @@
         "name": "Mr0x58"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "new dg",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Mr0x58"
   }
 }
